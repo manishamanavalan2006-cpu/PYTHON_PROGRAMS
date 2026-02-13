@@ -1,0 +1,12 @@
+def selection_sort(integral_list):
+    minimum=
+
+
+
+
+
+n=input().split()
+integral_list=list(map(int,n))
+output=selection_sor(inte
+gral_list)
+print(output)
